@@ -1,1 +1,3771 @@
-{"schema_version":1,"worlds":[{"world_id":"wrld_b8562984-4c23-4374-9421-47e1495de24b","slug":"for-two","name":"for Two","capacity":2,"platforms":["pc","android"],"features":["posture","lighting","sound","local","asmr","drawing_pen","mirror","video_player"],"sleep_guide":{"posture":"房间里的姿势平板可以切换仰躺、左侧躺和右侧躺。","lighting":"夜间模式能把整个画面调暗，角色灯光可以只在自己这边关掉。","sound":"窗边的雨声可以只在自己这边开关，视频音量也能单独调。","local":"有人进房时的提示音可以自己关掉，镜子和屏幕也能自己隐藏。床的碰撞同样可以单独开关。"},"space":"small","aesthetics":["暖光居家","现代室内"]},{"world_id":"wrld_ba625792-f7b3-4106-8bcd-13cd0c992c79","slug":"yotogi-oboro","name":"夜伽朧～よとぎおぼろ～","capacity":2,"platforms":["pc","android"],"features":["posture","lighting","sound","local","alarm","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"posture":"姿势平板可以切换仰躺、左侧躺和右侧躺。","lighting":"床头面板有夜间模式，可以把整个画面调暗。视频画面也能单独调亮度。","sound":"视频音量可以单独调。","local":"视频画面和播放面板可以只在自己这边隐藏。","alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"small","aesthetics":["酒店套房","霓虹灯光","浪漫粉调"]},{"world_id":"wrld_ed4a3561-4498-4450-96ee-9b711f730586","slug":"seclusion","name":"Seclusion","capacity":8,"platforms":["pc","android"],"features":["bed","lighting","sound","alarm","drawing_pen","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"bed":"房间里有带床头面板的床。","lighting":"床头面板的夜间模式可以调暗整个画面。","sound":"房间里有循环雨声，每个人可以单独调自己听到的雨声音量。","alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"small","aesthetics":["冷调极简","雨景氛围"]},{"world_id":"wrld_b4eef105-5db1-4c1f-8800-a6e6de4a20e7","slug":"koiu-heya","name":"こういう部屋に住みたい","capacity":6,"platforms":["pc","android"],"features":["posture","lighting","sound","alarm","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"posture":"姿势平板可以切换仰躺、左侧躺和右侧躺。","lighting":"床头面板有夜间模式，可以把整个画面调暗。视频画面的亮度另有调节。","sound":"视频播放器有自己的音量调节。","alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"small","aesthetics":["都市景观","现代室内"]},{"world_id":"wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a","slug":"the-room-of-the-rain","name":"The room of the rain","capacity":48,"platforms":["pc","android"],"features":["lighting","sound","local","drawing_pen","mirror","video_player"],"sleep_guide":{"lighting":"图形设置可以调画面亮度，也有单独的睡眠模式。","sound":"雨声、雷声、壁炉声和时钟的滴答声都能单独调音量。","local":"角色的声音设置只影响自己听到的效果。空间画笔留下的东西也可以只在自己这边隐藏。"},"space":"large","aesthetics":["星空宇宙","暖光居家","雨景氛围"]},{"world_id":"wrld_fac11e5f-1c73-4436-8936-a70b80961c5a","slug":"rest-and-sleep","name":"Rest and Sleep 寝る","capacity":40,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"lighting":"房间菜单里的睡眠模式可以把画面调暗。","sound":"背景音乐会循环播放，设置里可以把它关掉，音量也能单独调。"},"space":"medium","aesthetics":["霓虹灯光","昏暗低光"]},{"world_id":"wrld_1e0e3667-af03-4ce2-9399-30014a109c48","slug":"cozy-calm","name":"Cozy Calm","capacity":48,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"厨房区和会员区都有床。","lighting":"房间菜单里有调暗画面的亮度滑杆。","sound":"屋里有循环雨声，视频音量可以单独调。"},"space":"medium","aesthetics":["暖光居家"]},{"world_id":"wrld_a729bf90-1220-423a-9630-7e60851e7475","slug":"rainy-daze","name":"Rainy Daze","capacity":80,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"lighting":"夜间模式会把画面调暗。睡眠氛围也会打开夜间效果。","sound":"天气声、城市背景音和环境底噪都有各自的音量调节。"},"space":"medium","aesthetics":["雨景氛围","都市景观","霓虹灯光"]},{"world_id":"wrld_0733e12b-6e3a-4e2e-9b09-183e3627357b","slug":"rainy-road","name":"Rainy Road","capacity":40,"platforms":["pc","android"],"features":["posture","lighting","sound","local","alarm","drawing_pen","mirror","video_player"],"sleep_guide":{"posture":"房车楼上和楼下的床都有仰躺位置，也有单独的坐姿。","lighting":"床边面板和房车设置里都有夜间亮度调节。","sound":"环境音可以选普通雨声、大雨或带雷声的雨，视频音量可以单独调。","local":"画面明暗和墙面颜色都可以只在自己这边调。","alarm":"房车的设置菜单里有闹钟，可以选星期重复，铃声音量也能单独调。"},"space":"medium","aesthetics":["旅行载具","雨景氛围"]},{"world_id":"wrld_0ae3e886-52eb-4ee0-aa0c-ef7d5a9fb2d8","slug":"avtr-zip","name":"avtr․zip - Search ＆ Hangout","capacity":48,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"会员区有床。","lighting":"设置面板里的 World brightness 可以把地图画面调暗，角色亮度另有单独的滑杆。","sound":"视频播放器有单独的音量调节。"},"space":"medium","aesthetics":["现代室内"]},{"world_id":"wrld_b95f863c-fc88-4ac1-b4c0-d15b4383b0d2","slug":"omoine","name":"思い寝-omoine-","capacity":2,"platforms":["pc","android"],"features":["posture","lighting","sound","alarm","asmr","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。","sound":"视频的音量可以单独调。"},"space":"medium","aesthetics":["日式和风","暖光居家"]},{"world_id":"wrld_ef5fb2ae-4cc3-4443-9701-374ede039079","slug":"kusa-no-yukari","name":"くさのゆかり ⁄ Kusa no yukari","capacity":2,"platforms":["pc","android"],"features":["local","alarm","drawing_pen","mirror","video_player"],"sleep_guide":{"alarm":"手部菜单里能设置起床闹钟。","local":"镜子可以只在自己这边开关。"},"space":"small","aesthetics":["日式和风","复古怀旧"]},{"world_id":"wrld_4a9070c3-946b-4a7e-98ce-362a69dbbb37","slug":"a-cozy-drive-for-two","name":"ドライブ寝 - A Cozy Drive for Two","capacity":2,"platforms":["pc"],"features":["lighting","sound","alarm","drawing_pen","mirror","video_player"],"sleep_guide":{"lighting":"车内的控制面板有睡眠模式，可以用滑杆调暗画面。视频亮度也可以单独调。","sound":"视频的音量可以单独调。","alarm":"车内的同一面板可以设置起床闹钟，小时和分钟可以分别调。"},"space":"small","aesthetics":["旅行载具","复古怀旧","雨景氛围"]},{"world_id":"wrld_09e57ebd-12e2-47a8-9e2d-864aabd2a57d","slug":"pairheart","name":"PairHeart","capacity":2,"platforms":["pc"],"features":["posture","lighting","sound","asmr","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"视频画面的亮度可以调。","sound":"视频的音量可以单独调。"},"space":"medium","aesthetics":["暖光居家","雨景氛围"]},{"world_id":"wrld_d35776bf-48d7-4359-b8a0-9f04c883437e","slug":"mooroom-for-two","name":"MOOROOM for Two","capacity":2,"platforms":["pc","android"],"features":["posture","sound","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","sound":"房间里有循环播放的雨声和背景音乐。"},"space":"small","aesthetics":["酒店套房","暖光居家"]},{"world_id":"wrld_f18916ae-e83d-4255-be4a-953b31dc6317","slug":"2asmr-room","name":"2人だけのASMR room","capacity":2,"platforms":["pc"],"features":["posture","asmr","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。"},"space":"small","aesthetics":["暖光居家"]},{"world_id":"wrld_9f13401c-d3f4-4624-a7a9-ca4581aa2c9c","slug":"spotlight-1on1-talk-world-quest-luworld","name":"SPOT∗LIGHT ［1on1 Talk WORLD（Quest）］［LUWORLD］","capacity":2,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"lighting":"屋里的油灯可以切换画面的夜间亮度档位。视频亮度也可以单独调。","sound":"房间里有循环播放的壁炉声。视频的音量可以单独调。"},"space":"large","aesthetics":["星空宇宙","海滨水景","昏暗低光"]},{"world_id":"wrld_ad01d5ab-374c-47b6-9774-2aee1cdbebf7","slug":"for-two-ad01d5ab","name":"二人きりの部屋 - For Two","capacity":2,"platforms":["pc","android"],"features":["bed","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声。"},"space":"small","aesthetics":["冷调极简","雨景氛围"]},{"world_id":"wrld_3be8b2a7-0e03-46ce-b02c-25c96c6ac637","slug":"world-3be8b2a7","name":"煙草の煙と雨とキミ","capacity":2,"platforms":["pc","android"],"features":["posture","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。"},"space":"small","aesthetics":["暖光居家","雨景氛围","都市景观"]},{"world_id":"wrld_f3db0e1b-7740-4276-8b9c-286a0fa3efc6","slug":"hotel","name":"HOTEL夕暮","capacity":2,"platforms":["pc","android"],"features":["posture","lighting","sound","local","asmr","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"视频画面的亮度可以调。","local":"镜子可以只在自己这边开关。","sound":"房间里有循环播放的雨声。视频的音量可以单独调。"},"space":"small","aesthetics":["酒店套房","暖光居家","雨景氛围"]},{"world_id":"wrld_4ccfaa02-5e38-4dad-a957-3a4dacd28f9a","slug":"hotel-4ccfaa02","name":"HOTEL 散花","capacity":2,"platforms":["pc","android"],"features":["bed","lighting","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"房间的夜间模式可以用可拾取的滑杆调暗画面。"},"space":"small","aesthetics":["酒店套房","浪漫粉调"]},{"world_id":"wrld_e0b2f067-f25d-4062-b7f1-6c5a1c19d7f6","slug":"two-only-room","name":"two only room","capacity":2,"platforms":["pc","android"],"features":["posture","lighting","sound","alarm","asmr","drawing_pen","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。","sound":"房间里有循环播放的雨声。视频的音量可以单独调。"},"space":"small","aesthetics":["暖光居家","雨景氛围"]},{"world_id":"wrld_1987e0aa-ef98-4bc8-8888-2fe224406d9c","slug":"world-1987e0aa","name":"海月の眠る夢のなかで","capacity":2,"platforms":["pc"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"lighting":"视频画面的亮度可以调。","sound":"视频的音量可以单独调。"},"space":"medium","aesthetics":["海底世界","幻想梦境"]},{"world_id":"wrld_dff1cc83-ede7-4696-a5fd-fb2f44ece25e","slug":"soft-wind","name":"Soft Wind","capacity":2,"platforms":["pc"],"features":["bed","lighting","alarm","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"bed":"这里有床。","lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"small","aesthetics":["现代室内","冷调极简"]},{"world_id":"wrld_5606e8c2-16a9-40ea-a939-d420eb97d523","slug":"japanese-summer-night","name":"月に涼む。- Japanese Summer Night","capacity":2,"platforms":["pc","android"],"features":["bed","lighting","sound","local","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"视频画面的亮度可以调。","local":"镜子可以只在自己这边开关。","sound":"视频的音量可以单独调。"},"space":"medium","aesthetics":["日式和风","海滨水景"]},{"world_id":"wrld_b9151aa2-bf23-4d72-9551-12f8a909c655","slug":"together-nest","name":"Together Nest","capacity":2,"platforms":["pc"],"features":["bed","lighting","sound","local","alarm","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"bed":"这里有床。","lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。","local":"镜子可以只在自己这边开关。雨声也可以只在自己这边开关。","sound":"房间里有循环播放的雨声。"},"space":"small","aesthetics":["现代室内","冷调极简","雨景氛围"]},{"world_id":"wrld_cf06b411-3c0d-4a82-b205-94594c2e3389","slug":"marone-yomosugara","name":"まろ寝、終夜-marone yomosugara-","capacity":2,"platforms":["pc","android"],"features":["posture","lighting","sound","alarm","asmr","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。","sound":"视频的音量可以单独调。"},"space":"small","aesthetics":["复古怀旧","暖光居家"]},{"world_id":"wrld_b9326dce-ee4b-42cf-9a92-27e456d55282","slug":"soft-wind-night","name":"Soft Wind （night）","capacity":2,"platforms":["pc"],"features":["bed","lighting","alarm","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"bed":"这里有床。","lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"small","aesthetics":["现代室内","昏暗低光"]},{"world_id":"wrld_08a0a55d-3a59-4d19-8f2a-f0c5cc05f684","slug":"world-08a0a55d","name":"ちょっと気まずい三人専用部屋","capacity":3,"platforms":["pc"],"features":["bed","lighting","sound","local","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"视频画面的亮度可以调。","local":"镜子可以只在自己这边开关。","sound":"视频的音量可以单独调。"},"space":"small","aesthetics":["暖光居家","现代室内","雨景氛围"]},{"world_id":"wrld_96203704-8a95-4cb2-a047-794b6b029807","slug":"n-o-n-e","name":"N o n e ․","capacity":8,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"lighting":"视频画面的亮度可以调。","sound":"房间里有循环播放的雨声。视频的音量可以单独调。"},"space":"small","aesthetics":["乡间木屋","雨景氛围","昏暗低光"]},{"world_id":"wrld_d40979a1-bba2-45e0-8b6f-9d0219b77bb6","slug":"sepialodge","name":"SepiaLodge","capacity":8,"platforms":["pc","android"],"features":["alarm","drawing_pen","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"small","aesthetics":["乡间木屋","暖光居家"]},{"world_id":"wrld_7b5d6275-e654-4838-b614-21568ddf5a08","slug":"amber-wavelet-kohaku-iro","name":"琥珀色ウェーブレット ~Amber Wavelet ＂Kohaku_iro＂~","capacity":8,"platforms":["pc","android"],"features":["posture","alarm","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","alarm":"床头面板里能设置起床闹钟。"},"space":"medium","aesthetics":["暖光居家","复古怀旧"]},{"world_id":"wrld_212979a6-2e3d-4ce1-8783-08b2f757241e","slug":"noctix","name":"Noctix","capacity":5,"platforms":["pc"],"features":["posture","lighting","sound","asmr","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"视频画面的亮度可以调。","sound":"视频的音量可以单独调。"},"space":"small","aesthetics":["都市景观","雨景氛围","昏暗低光"]},{"world_id":"wrld_26db925e-4305-4045-8fa7-c99bb553d34b","slug":"universal-big-picture","name":"Universal˸ Big Picture","capacity":8,"platforms":["pc","android"],"features":["bed","lighting","alarm","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"睡眠设置里有渐暗功能，可以让画面逐渐变黑。","alarm":"世界菜单和 Sleeping Bay 休息区都能打开闹钟面板，设置只在自己这边响的起床闹钟。"},"space":"large","aesthetics":["星空宇宙"]},{"world_id":"wrld_127d7a39-0525-47cc-be1b-37f4a47c3836","slug":"velune","name":"Velune","capacity":8,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声。","lighting":"地图有标为 Night Mode (Mobile) 的滑杆，可以调暗眼前的画面。"},"space":"medium","aesthetics":["现代室内","暖光居家"]},{"world_id":"wrld_cbe3f639-0385-44ea-92f5-50319d24a226","slug":"melancholic-night","name":"Melancholic Night","capacity":8,"platforms":["pc","android"],"features":["bed","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"视频的音量可以单独调。"},"space":"small","aesthetics":["雨景氛围","海滨水景","昏暗低光"]},{"world_id":"wrld_d4a2adc5-0eb0-4462-8128-dbb59478f71f","slug":"overcast","name":"overcast","capacity":8,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"地图有标为 Night Mode (Mobile) 的滑杆，可以调暗眼前的画面。视频亮度也可以单独调。","sound":"视频的音量可以单独调。"},"space":"small","aesthetics":["冷调极简","现代室内"]},{"world_id":"wrld_5fa056bb-065c-48f6-a985-e6d2a4c158b8","slug":"ochiteiku","name":"OCHITEIKU-おちていく-","capacity":8,"platforms":["pc"],"features":["local","drawing_pen","mirror","video_player"],"sleep_guide":{"local":"镜子可以只在自己这边开关。"},"space":"medium","aesthetics":["恐怖氛围","昏暗低光"]},{"world_id":"wrld_f4a5d439-1daa-4f2a-b27a-54e00772af52","slug":"lover-s-room","name":"Lover's Room","capacity":4,"platforms":["pc","android"],"features":["bed","mirror","video_player"],"sleep_guide":{"bed":"这里有床。"},"space":"small","aesthetics":["浪漫粉调","霓虹灯光"]},{"world_id":"wrld_6da45bcd-678a-478b-85dc-95232dd1011c","slug":"planetarium","name":"planetarium","capacity":6,"platforms":["pc"],"features":["lighting","sound","alarm","mirror","video_player"],"sleep_guide":{"lighting":"视频画面的亮度可以调。","sound":"视频的音量可以单独调。","alarm":"墙上的数字钟可以设闹钟，支持设置小时、分钟和上午或下午。"},"space":"large","aesthetics":["星空宇宙","幻想梦境"]},{"world_id":"wrld_c32244ce-b9c0-4371-983d-0d0867bdfde9","slug":"world-c32244ce","name":"薄暮","capacity":4,"platforms":["pc","android"],"features":["posture","lighting","alarm","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"medium","aesthetics":["都市景观","现代室内"]},{"world_id":"wrld_1e316d54-100c-4044-8a34-480985ce0165","slug":"rainy-room","name":"五月雨 - Rainy Room -","capacity":6,"platforms":["pc","android"],"features":["posture","lighting","sound","local","alarm","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。","lighting":"视频画面的亮度可以调。","alarm":"手部菜单里能设置起床闹钟。","local":"雨声可以只在自己这边开关。","sound":"房间里有循环播放的雨声。视频的音量可以单独调。"},"space":"medium","aesthetics":["雨景氛围","暖光居家"]},{"world_id":"wrld_a45a6a54-afee-4e59-a31c-cf68b40b3bc1","slug":"cloudrest","name":"CLOUDREST","capacity":8,"platforms":["pc"],"features":["bed","lighting","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"小屋控制面板上的 Dark Mode 可以把画面调暗。"},"space":"large","aesthetics":["自然风景","幻想梦境"]},{"world_id":"wrld_7f4e5dc3-15ec-4e2f-8558-75cc4595edc1","slug":"akibeya","name":"空き部屋 -akibeya-","capacity":4,"platforms":["pc"],"features":["posture","mirror","video_player"],"sleep_guide":{"posture":"可以仰躺、左侧躺和右侧躺。"},"space":"small","aesthetics":["现代室内","昏暗低光"]},{"world_id":"wrld_c6d7f723-30ff-4cfd-84fc-d930fb6dcd1b","slug":"world-c6d7f723","name":"もし降りられたなら","capacity":8,"platforms":["pc","android"],"features":["lighting","alarm","drawing_pen","mirror","video_player","rbs_sleep_kit_2"],"sleep_guide":{"lighting":"夜间模式可以把画面调暗。","alarm":"床头面板和随身平板都能设置起床闹钟。"},"space":"small","aesthetics":["科幻空间","都市景观"]},{"world_id":"wrld_77f63ac2-2dcf-49e2-8c7e-9cd1e5011d74","slug":"serenity-cove","name":"Serenity Cove","capacity":48,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的流水声和背景音乐。","lighting":"设置面板可以切到 Night Filter，让场景画面变暗。"},"space":"large","aesthetics":["海滨水景","幻想梦境"]},{"world_id":"wrld_58b24425-a355-45d0-be76-9483c4f6fbae","slug":"cozy-apartment","name":"Cozy Apartment","capacity":48,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声。","lighting":"设置里有 Sleep Mode 开关，打开后画面会变暗。"},"space":"medium","aesthetics":["暖光居家","现代室内"]},{"world_id":"wrld_4f826865-8501-4de2-b83a-f7eeb86b26a1","slug":"root-s-home-2024","name":"ROOT'S HOME （2024）","capacity":20,"platforms":["pc"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"sound":"视频的音量可以单独调。","lighting":"入口的 Settings 菜单有亮度滑杆，可以调整整个地图的画面亮度。"},"space":"medium","aesthetics":["暖光居家","现代室内"]},{"world_id":"wrld_25aa60c6-ca27-458c-8fdb-43b227caa9ed","slug":"cozy-cabin-legacy","name":"Cozy Cabin - Legacy","capacity":24,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的风声。","lighting":"打开 Settings 面板后，可以通过 Sleep Mode 切到更暗的画面。"},"space":"medium","aesthetics":["乡间木屋","暖光居家","雪景冬日"]},{"world_id":"wrld_4d501c26-deb3-48e3-a5ea-e8dcc2a7f4e4","slug":"comfy-hideout","name":"Comfy Hideout","capacity":24,"platforms":["pc","android"],"features":["lighting","drawing_pen","mirror","video_player"],"sleep_guide":{"lighting":"房间画面可以调暗。"},"space":"small","aesthetics":["暖光居家","霓虹灯光"]},{"world_id":"wrld_6f6c85cf-61e0-469c-a863-08c85dc73daa","slug":"hangout-house","name":"Hangout House","capacity":80,"platforms":["pc"],"features":["sleep_seat","bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"随身面板可以打开睡眠预设，让画面变暗。地下室的灯光亮度也可以单独调。","sound":"雨声、风声和视频的音量都可以单独调。","sleep_seat":"地下室的座位面板有 Sleep 选项，可以生成可移动的睡眠座位。"},"space":"medium","aesthetics":["暖光居家","现代室内"]},{"world_id":"wrld_9647acf7-e077-4428-9f4f-4c8c0c49db55","slug":"sleep-neko-uwu-avatar","name":"Sleep Neko UwU Avatar","capacity":64,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"lighting":"房间画面可以调暗。","sound":"房间里有循环播放的流水声和虫鸣。"},"space":"large","aesthetics":["可爱二次元","浪漫粉调"]},{"world_id":"wrld_1752e426-4b07-45b7-99c2-452c02f5dcbd","slug":"the-room-of-the-sleep","name":"The room of the Sleep","capacity":48,"platforms":["pc","android"],"features":["bed","lighting","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"设置菜单里的 Sleep mode 会开启睡眠画面，并显示亮度滑杆。"},"space":"small","aesthetics":["冷调极简","昏暗低光","雨景氛围"]},{"world_id":"wrld_2902b80d-f4ba-48b8-b325-27227bff7500","slug":"oceans-away","name":"Oceans Away","capacity":36,"platforms":["pc","android"],"features":["bed","sound","local","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","local":"画笔组的显示开关只影响自己这边。","sound":"房间里有循环播放的风声、海浪声和壁炉声。"},"space":"large","aesthetics":["海滨水景","浪漫粉调"]},{"world_id":"wrld_acfd9876-5c18-4012-82c0-b00c89afc99d","slug":"moody","name":"Moody","capacity":80,"platforms":["pc"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的流水声。","lighting":"客厅和楼下卧室的 SLEEP MODE 都能打开调暗面板，再用滑杆调整画面。"},"space":"large","aesthetics":["自然风景"]},{"world_id":"wrld_60f27ea7-a9f0-4aca-aecd-9aba18c86ed9","slug":"home-of-the-time","name":"Home of the Time 時のお家","capacity":24,"platforms":["pc","android"],"features":["sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雨声。"},"space":"medium","aesthetics":["日式和风","花园绿植"]},{"world_id":"wrld_404ac063-83ec-43da-85db-e060a40f7f13","slug":"skyline-penthouse","name":"Skyline Penthouse","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的流水声。","lighting":"Sleep Toggle 开关可以把画面切到较暗的睡眠模式。"},"space":"medium","aesthetics":["都市景观","现代室内"]},{"world_id":"wrld_4b683455-d740-4182-b96c-1c8366e6cade","slug":"guigui-s-home-and-avatars","name":"GuiGui's Home And Avatars","capacity":36,"platforms":["pc","android"],"features":["bed","alarm","mirror","video_player"],"sleep_guide":{"bed":"屋内有床。","alarm":"睡眠助手的设置面板里能设置起床闹钟。"},"space":"medium","aesthetics":["霓虹灯光"]},{"world_id":"wrld_fff5d510-fc53-4e88-9d4e-1e0e45a17aff","slug":"bedroom-theatre","name":"Bedroom Theatre","capacity":40,"platforms":["pc","android"],"features":["bed","mirror","video_player"],"sleep_guide":{"bed":"这里有床。"},"space":"small","aesthetics":["现代室内","昏暗低光"]},{"world_id":"wrld_955ded62-6d09-4b84-999c-05fa97f9238b","slug":"just-moved-in","name":"Just Moved In","capacity":48,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雨声。","lighting":"两处设置面板都有 Night Mode 开关，可以把场景画面调暗。"},"space":"medium","aesthetics":["暖光居家","雨景氛围"]},{"world_id":"wrld_a7366005-8b42-4063-b21e-11ba04392a8a","slug":"the-fox-den","name":"The Fox Den","capacity":32,"platforms":["pc","android"],"features":["bed","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"视频的音量可以单独调。"},"space":"small","aesthetics":["霓虹灯光","浪漫粉调"]},{"world_id":"wrld_14a873d0-b4bf-4d52-9d4e-de9be3e3e9b8","slug":"islands-of-dreams","name":"Islands Of Dreams","capacity":36,"platforms":["pc"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雷声、风声和雨声。","lighting":"便携面板的灯光设置可以切换五档较暗的画面，也能恢复默认亮度。"},"space":"large","aesthetics":["星空宇宙","幻想梦境"]},{"world_id":"wrld_70e42e7b-3f36-41f9-88bd-4610402ca805","slug":"world-70e42e7b","name":"静寂な世界の中で","capacity":80,"platforms":["pc","android"],"features":["sound","local","drawing_pen","mirror"],"sleep_guide":{"sound":"场景里有循环播放的风声。","local":"镜子可以只在自己这边开关，画笔笔迹也可以只在自己这边清除。"},"space":"large","aesthetics":["幻想梦境","自然风景"]},{"world_id":"wrld_85af4dd5-7ffc-498d-bd29-60fcbcda16dc","slug":"place-to-eat-cereal","name":"place to eat cereal","capacity":32,"platforms":["pc","android"],"features":["lighting","sound","alarm","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雨声。","lighting":"第一间小屋的窗边设置有 Dark Mode，可以调暗场景画面。","alarm":"第一间小屋的桌钟可以设置起床闹钟，小时和分钟可以分别调。"},"space":"large","aesthetics":["冷调极简","星空宇宙","雨景氛围"]},{"world_id":"wrld_7a0c95e2-476c-4655-9b4e-7380933c4fd3","slug":"cuddle-sleep","name":"Cuddle ＆ Sleep","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"观影区有床。","lighting":"图形设置里的夜间模式可以把画面调暗。","sound":"室外的雨声可以开关。地图里还有循环播放的背景音乐。"},"space":"large","aesthetics":["暖光居家","霓虹灯光"]},{"world_id":"wrld_79d241ea-afb0-499d-9874-455f85e87523","slug":"starlight-home","name":"Starlight Home","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"世界设置里的 Dark Mode 开关可以调暗场景画面。"},"space":"medium","aesthetics":["都市景观","现代室内","星空宇宙"]},{"world_id":"wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7","slug":"hanami-onsen","name":"Hanami Onsen","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的流水声。","lighting":"主菜单的 Night time 会切到曝光更低的夜景预设。"},"space":"large","aesthetics":["日式和风","自然风景"]},{"world_id":"wrld_760b95b6-7dcd-4939-9b0a-7837ab24c2f6","slug":"thad-tiny-library-ai-inside","name":"Thad Tiny Library （AI Inside）","capacity":18,"platforms":["pc","android"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的风声和虫鸣。","lighting":"随身平板的自定义菜单有亮度滑杆，可以把场景画面调暗或调亮。"},"space":"small","aesthetics":["乡间木屋","暖光居家","复古怀旧"]},{"world_id":"wrld_e2e685de-1af9-4426-b614-dbdb4b316e5a","slug":"starry-nights","name":"Starry Nights","capacity":36,"platforms":["pc","android"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声。","lighting":"主菜单里的 Dark Mode 可以把场景从默认亮度切到较暗的画面。"},"space":"medium","aesthetics":["霓虹灯光","星空宇宙"]},{"world_id":"wrld_e51a6e72-36c1-4bb9-b2e3-fc87cc338091","slug":"cybersoft","name":"CyberSoft","capacity":60,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"雨声、壁炉声、海浪声和鸟鸣的音量都可以单独调。","lighting":"视觉设置里有 Dark Mode 滑杆，可以调暗眼前的画面。"},"space":"medium","aesthetics":["赛博朋克","霓虹灯光"]},{"world_id":"wrld_f6f4bb4f-5abf-4fa4-b07d-dae59c182331","slug":"cyberlove-okinawa","name":"CyberLove Okinawa ｜ 沖縄","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声。视频的音量可以单独调。","lighting":"后处理菜单里的 Exposure 滑杆可以调低整个场景的曝光。"},"space":"medium","aesthetics":["赛博朋克","复古怀旧"]},{"world_id":"wrld_78b2f1fe-622d-4556-8401-aa90921b31c1","slug":"nest","name":"Nest ネスト","capacity":64,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"lighting":"菜单里的夜间模式可以把画面调暗。","sound":"屋里有循环雨声，雨声音量可以单独调。"},"space":"small","aesthetics":["暖光居家","复古怀旧","雨景氛围"]},{"world_id":"wrld_e0f57c52-24f3-4437-9b19-459f2834c5d5","slug":"worlds-apart","name":"Worlds Apart","capacity":80,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雨声和雷声。视频的音量可以单独调。","lighting":"天气面板有 NightMode 开关，也可以选 Sleep 或 Silent Sleep 预设。设置里还有单独的曝光滑杆。"},"space":"medium","aesthetics":["雨景氛围","霓虹灯光"]},{"world_id":"wrld_95d99272-1530-4c0e-94a4-18c87671a359","slug":"grandma-s-basement","name":"Grandma's Basement","capacity":40,"platforms":["pc","android"],"features":["posture","bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雷声。雷声的音量可以单独调。","posture":"打开座位组后，床位有 VR 和桌面两种仰躺入口。","lighting":"床位平板可以打开暗屏，让眼前的画面变暗。"},"space":"medium","aesthetics":["复古怀旧","暖光居家"]},{"world_id":"wrld_5906f874-5bba-4f50-b1aa-4f376d1771f2","slug":"booth-house","name":"BOOTH House","capacity":40,"platforms":["pc","android"],"features":["bed","lighting","sound","local","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","local":"镜子可以只在自己这边开关。","sound":"房间里有循环播放的背景音乐。","lighting":"卧室的 NightMode/Local 开关可以切换床边灯光，只影响自己这边。"},"space":"medium","aesthetics":["现代室内"]},{"world_id":"wrld_e6767a73-e066-4e39-a43b-c4fc97ea8d67","slug":"the-black-shore","name":"The Black Shore - 黒の岸辺","capacity":80,"platforms":["pc","android"],"features":["bed","sound","alarm","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","alarm":"设置面板里能设置起床闹钟。","sound":"房间里有循环播放的海浪声。视频的音量可以单独调。"},"space":"large","aesthetics":["海滨水景","自然风景"]},{"world_id":"wrld_89fe75cc-7bce-4043-9b35-b395f7e754fd","slug":"m-home","name":"M~Home","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"PC 版的后处理设置有 Exposure 滑杆，可以调低场景曝光。"},"space":"medium","aesthetics":["星空宇宙","霓虹灯光"]},{"world_id":"wrld_16f2515e-0dda-4741-a646-ab77bec9a277","slug":"cozy-comfort","name":"Cozy Comfort","capacity":60,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声。","lighting":"地图设置有一支 Dark Mode 滑杆，可以调暗场景画面。"},"space":"medium","aesthetics":["暖光居家","雨景氛围"]},{"world_id":"wrld_6ed81f53-a730-4b79-897e-57b2330ab1f9","slug":"s-house","name":"이루아's House","capacity":60,"platforms":["pc"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的风声。","lighting":"三楼卧室、入口和影音区等处的设置面板都有夜间模式按钮，可以调暗画面。"},"space":"medium","aesthetics":["海滨水景","现代室内"]},{"world_id":"wrld_8fb6757c-46c9-429c-8a0c-6b8e82c7cc52","slug":"frozen-star","name":"Frozen Star","capacity":36,"platforms":["pc"],"features":["sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的风雪声和壁炉声。视频的音量可以单独调。"},"space":"large","aesthetics":["雪景冬日","自然风景"]},{"world_id":"wrld_55ae2510-27c6-4309-9f18-b3eac4219a9b","slug":"cyberpunk-home","name":"Cyberpunk Home","capacity":80,"platforms":["pc","android"],"features":["bed","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"视频的音量可以单独调。"},"space":"medium","aesthetics":["赛博朋克"]},{"world_id":"wrld_637ca2d9-9073-4bf4-ba24-c194ff051536","slug":"avatars-by-mai","name":"Avatars by Mai","capacity":32,"platforms":["pc","android"],"features":["bed","mirror","video_player"],"sleep_guide":{"bed":"这里有床。"},"space":"medium","aesthetics":["可爱二次元"]},{"world_id":"wrld_f5f11bb8-e02a-452b-b0cb-f2d8db74a3e8","slug":"dreams-train","name":"Dreams Train","capacity":80,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"雨声和雷声的音量都可以单独调。","lighting":"列车的后处理菜单里有 Sleep Mode 滑杆，可以把画面调暗。"},"space":"medium","aesthetics":["旅行载具","霓虹灯光"]},{"world_id":"wrld_1608a761-8ffd-4327-95b9-6800921f7af4","slug":"the-cabin-life","name":"THE CABIN LIFE","capacity":32,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的流水声。","lighting":"菜单有标为 85% DARKMODE 和 98% DARKMODE 的两档暗屏开关。"},"space":"medium","aesthetics":["乡间木屋","暖光居家"]},{"world_id":"wrld_a5c9f5c1-7f9c-417a-9342-8f15c8702be1","slug":"thad-home-of-cuddles","name":"Thad Home of Cuddles","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声和壁炉声。","lighting":"世界设置可以用亮度滑杆调暗画面，桑拿房还有自己的 Dark Mode 开关。"},"space":"medium","aesthetics":["暖光居家","自然风景"]},{"world_id":"wrld_7f9b9fe5-1ef9-4525-836b-e86e095b27e8","slug":"acquarium-loft","name":"Acquarium Loft","capacity":40,"platforms":["pc","android"],"features":["bed","lighting","sound","alarm","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的壁炉声。","lighting":"主菜单里有 Dark Mode 滑杆，可以把画面调暗。","alarm":"地图里的黑色闹钟可以设定响铃时间，响铃后可以在钟上关闭。"},"space":"medium","aesthetics":["海底世界","冷调极简"]},{"world_id":"wrld_5eb5929a-c878-4372-b2f8-8198b96400a0","slug":"soft-space","name":"Soft Space","capacity":24,"platforms":["pc","android"],"features":["lighting","sound","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雨声。","lighting":"PC 版的设置里有 Sleep Toggle 开关，可以切到更暗的画面。"},"space":"medium","aesthetics":["暖光居家","现代室内"]},{"world_id":"wrld_6ebfc3e2-3553-4cd3-9aca-1ee5e84f7811","slug":"cozy-boat","name":"Cozy Boat","capacity":60,"platforms":["pc","android"],"features":["bed","lighting","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","lighting":"船舱内和船上的亮度控制面板都有滑杆，可以调暗画面。"},"space":"medium","aesthetics":["旅行载具","海滨水景","暖光居家"]},{"world_id":"wrld_f612c90d-1a12-4355-8683-215c3a34c8ed","slug":"thad-magic-mirrors","name":"Thad Magic Mirrors - マジカル鏡","capacity":80,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的风声和壁炉声。","lighting":"PC 版主房菜单里的 Brightness 滑杆可以调暗画面，切换场景后各有对应的暗色设置。"},"space":"large","aesthetics":["幻想梦境","自然风景"]},{"world_id":"wrld_1ef6553e-8ddf-49da-8969-2b3c75a325b1","slug":"pocket-rain","name":"Pocket Rain","capacity":36,"platforms":["pc","android"],"features":["sound","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雨声。雨声和风声的音量都可以单独调。"},"space":"small","aesthetics":["旅行载具","雨景氛围","雪景冬日"]},{"world_id":"wrld_8c422b2d-a819-45a9-b21b-61fbf2dd2e96","slug":"cozy-cottage-legacy","name":"Cozy Cottage - Legacy","capacity":32,"platforms":["pc","android"],"features":["bed","lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的雨声。","lighting":"设置区有独立的 Sleep Mode 按钮，可以切到较暗的画面。"},"space":"medium","aesthetics":["乡间木屋","暖光居家","雨景氛围"]},{"world_id":"wrld_860bdea8-0499-4c16-8170-5683a3a3ab8a","slug":"dream-waves","name":"Dream Waves","capacity":80,"platforms":["pc"],"features":["bed","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的壁炉声和流水声。"},"space":"large","aesthetics":["蒸汽波","霓虹灯光"]},{"world_id":"wrld_41eee024-34ec-43cf-a2f8-2bc16e2896d0","slug":"dream-ocean","name":"Dream Ocean","capacity":80,"platforms":["pc","android"],"features":["bed","lighting","sound","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的海浪声。","lighting":"屋里的 DARK 开关可以切到更暗的夜间画面。"},"space":"large","aesthetics":["海底世界","幻想梦境"]},{"world_id":"wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f","slug":"spring-and-you","name":"消えたあなたと‚ 止まっている春が-Spring and you","capacity":32,"platforms":["pc"],"features":["sound","alarm","drawing_pen","mirror","video_player"],"sleep_guide":{"alarm":"床边面板里能设置起床闹钟。","sound":"床边的睡眠面板可以单独开关背景音乐。"},"space":"medium","aesthetics":["花园绿植","复古怀旧"]},{"world_id":"wrld_0729c818-2397-4d80-84e2-dbd43844361e","slug":"serenity-sleepover","name":"Serenity Sleepover","capacity":36,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的雨声和背景音乐。雨声和背景音乐的音量都可以单独调。","lighting":"随身设置平板的 Sleep Mode 开关可以把画面调暗。"},"space":"medium","aesthetics":["暖光居家","昏暗低光"]},{"world_id":"wrld_b92b44e1-bd57-4100-9d49-c6eaee90c7de","slug":"glimmer-glade","name":"Glimmer Glade","capacity":80,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的壁炉声。","lighting":"世界设置的 Dark Mode 符文开关可以把场景画面调暗。"},"space":"large","aesthetics":["幻想梦境","自然风景"]},{"world_id":"wrld_891d0376-3ee6-4ff3-9f5c-d44e982d3d7c","slug":"cozy-cave","name":"Cozy Cave","capacity":50,"platforms":["pc","android"],"features":["lighting","sound","local","drawing_pen","mirror","video_player"],"sleep_guide":{"local":"画笔组的显示开关只影响自己这边。","sound":"房间里有循环播放的雨声。","lighting":"地下室可以打开只影响自己的夜间模式，灯光菜单里还有亮度滑杆。"},"space":"medium","aesthetics":["幻想梦境","暖光居家"]},{"world_id":"wrld_23a62ea4-6645-47a2-b3de-1247472c5222","slug":"customizable-home-world","name":"Customizable Home World","capacity":32,"platforms":["pc","android"],"features":["lighting","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"sound":"视频的音量可以单独调。","lighting":"Dark Mode 设置面板可以开启暗色画面。"},"space":"medium","aesthetics":["暖光居家","现代室内"]},{"world_id":"wrld_f33d809d-12b5-43a3-98a3-27c5f5add919","slug":"meadow-cottage","name":"Meadow Cottage","capacity":80,"platforms":["pc","android"],"features":["bed","sound","drawing_pen","mirror","video_player"],"sleep_guide":{"bed":"这里有床。","sound":"房间里有循环播放的壁炉声。"},"space":"medium","aesthetics":["花园绿植","乡间木屋"]},{"world_id":"wrld_1efd54f9-2aee-460b-8084-f880bfd69157","slug":"clean","name":"Clean","capacity":8,"platforms":["pc"],"features":["sound","mirror","video_player"],"sleep_guide":{"sound":"房间里有循环播放的背景音乐。"},"space":"small","aesthetics":["冷调极简","雪景冬日"]}],"revision":"367969e2f96f"}
+{
+  "schema_version": 1,
+  "worlds": [
+    {
+      "world_id": "wrld_b8562984-4c23-4374-9421-47e1495de24b",
+      "slug": "for-two",
+      "name": "for Two",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "local",
+        "asmr",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "房间里的姿势平板可以切换仰躺、左侧躺和右侧躺。",
+        "lighting": "夜间模式能把整个画面调暗，角色灯光可以只在自己这边关掉。",
+        "sound": "窗边的雨声可以只在自己这边开关，视频音量也能单独调。",
+        "local": "有人进房时的提示音可以自己关掉，镜子和屏幕也能自己隐藏。床的碰撞同样可以单独开关。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "暖光居家",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 0,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_ba625792-f7b3-4106-8bcd-13cd0c992c79",
+      "slug": "yotogi-oboro",
+      "name": "夜伽朧～よとぎおぼろ～",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "local",
+        "alarm",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "posture": "姿势平板可以切换仰躺、左侧躺和右侧躺。",
+        "lighting": "床头面板有夜间模式，可以把整个画面调暗。视频画面也能单独调亮度。",
+        "sound": "视频音量可以单独调。",
+        "local": "视频画面和播放面板可以只在自己这边隐藏。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "酒店套房",
+        "霓虹灯光",
+        "浪漫粉调"
+      ],
+      "cover_page": 0,
+      "cover_cell": 1,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
+      "slug": "seclusion",
+      "name": "Seclusion",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "bed": "房间里有带床头面板的床。",
+        "lighting": "床头面板的夜间模式可以调暗整个画面。",
+        "sound": "房间里有循环雨声，每个人可以单独调自己听到的雨声音量。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "冷调极简",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 2,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_b4eef105-5db1-4c1f-8800-a6e6de4a20e7",
+      "slug": "koiu-heya",
+      "name": "こういう部屋に住みたい",
+      "capacity": 6,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "alarm",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "posture": "姿势平板可以切换仰躺、左侧躺和右侧躺。",
+        "lighting": "床头面板有夜间模式，可以把整个画面调暗。视频画面的亮度另有调节。",
+        "sound": "视频播放器有自己的音量调节。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "都市景观",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 3,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a",
+      "slug": "the-room-of-the-rain",
+      "name": "The room of the rain",
+      "capacity": 48,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "local",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "图形设置可以调画面亮度，也有单独的睡眠模式。",
+        "sound": "雨声、雷声、壁炉声和时钟的滴答声都能单独调音量。",
+        "local": "角色的声音设置只影响自己听到的效果。空间画笔留下的东西也可以只在自己这边隐藏。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "星空宇宙",
+        "暖光居家",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 4,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_fac11e5f-1c73-4436-8936-a70b80961c5a",
+      "slug": "rest-and-sleep",
+      "name": "Rest and Sleep 寝る",
+      "capacity": 40,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "房间菜单里的睡眠模式可以把画面调暗。",
+        "sound": "背景音乐会循环播放，设置里可以把它关掉，音量也能单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "霓虹灯光",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 5,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_1e0e3667-af03-4ce2-9399-30014a109c48",
+      "slug": "cozy-calm",
+      "name": "Cozy Calm",
+      "capacity": 48,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "厨房区和会员区都有床。",
+        "lighting": "房间菜单里有调暗画面的亮度滑杆。",
+        "sound": "屋里有循环雨声，视频音量可以单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 6,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_a729bf90-1220-423a-9630-7e60851e7475",
+      "slug": "rainy-daze",
+      "name": "Rainy Daze",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "夜间模式会把画面调暗。睡眠氛围也会打开夜间效果。",
+        "sound": "天气声、城市背景音和环境底噪都有各自的音量调节。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "雨景氛围",
+        "都市景观",
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 7,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.906947261663286,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_0733e12b-6e3a-4e2e-9b09-183e3627357b",
+      "slug": "rainy-road",
+      "name": "Rainy Road",
+      "capacity": 40,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "local",
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "房车楼上和楼下的床都有仰躺位置，也有单独的坐姿。",
+        "lighting": "床边面板和房车设置里都有夜间亮度调节。",
+        "sound": "环境音可以选普通雨声、大雨或带雷声的雨，视频音量可以单独调。",
+        "local": "画面明暗和墙面颜色都可以只在自己这边调。",
+        "alarm": "房车的设置菜单里有闹钟，可以选星期重复，铃声音量也能单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "旅行载具",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 8,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_0ae3e886-52eb-4ee0-aa0c-ef7d5a9fb2d8",
+      "slug": "avtr-zip",
+      "name": "avtr․zip - Search ＆ Hangout",
+      "capacity": 48,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "会员区有床。",
+        "lighting": "设置面板里的 World brightness 可以把地图画面调暗，角色亮度另有单独的滑杆。",
+        "sound": "视频播放器有单独的音量调节。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 9,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_b95f863c-fc88-4ac1-b4c0-d15b4383b0d2",
+      "slug": "omoine",
+      "name": "思い寝-omoine-",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "alarm",
+        "asmr",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "日式和风",
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 10,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_ef5fb2ae-4cc3-4443-9701-374ede039079",
+      "slug": "kusa-no-yukari",
+      "name": "くさのゆかり ⁄ Kusa no yukari",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "local",
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "alarm": "手部菜单里能设置起床闹钟。",
+        "local": "镜子可以只在自己这边开关。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "日式和风",
+        "复古怀旧"
+      ],
+      "cover_page": 0,
+      "cover_cell": 11,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_4a9070c3-946b-4a7e-98ce-362a69dbbb37",
+      "slug": "a-cozy-drive-for-two",
+      "name": "ドライブ寝 - A Cozy Drive for Two",
+      "capacity": 2,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "车内的控制面板有睡眠模式，可以用滑杆调暗画面。视频亮度也可以单独调。",
+        "sound": "视频的音量可以单独调。",
+        "alarm": "车内的同一面板可以设置起床闹钟，小时和分钟可以分别调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "旅行载具",
+        "复古怀旧",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 12,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_09e57ebd-12e2-47a8-9e2d-864aabd2a57d",
+      "slug": "pairheart",
+      "name": "PairHeart",
+      "capacity": 2,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "asmr",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "视频画面的亮度可以调。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 13,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_d35776bf-48d7-4359-b8a0-9f04c883437e",
+      "slug": "mooroom-for-two",
+      "name": "MOOROOM for Two",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "sound": "房间里有循环播放的雨声和背景音乐。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "酒店套房",
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 14,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_f18916ae-e83d-4255-be4a-953b31dc6317",
+      "slug": "2asmr-room",
+      "name": "2人だけのASMR room",
+      "capacity": 2,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "posture",
+        "asmr",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 15,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.8095841784989858,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_9f13401c-d3f4-4624-a7a9-ca4581aa2c9c",
+      "slug": "spotlight-1on1-talk-world-quest-luworld",
+      "name": "SPOT∗LIGHT ［1on1 Talk WORLD（Quest）］［LUWORLD］",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "屋里的油灯可以切换画面的夜间亮度档位。视频亮度也可以单独调。",
+        "sound": "房间里有循环播放的壁炉声。视频的音量可以单独调。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "星空宇宙",
+        "海滨水景",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 16,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_ad01d5ab-374c-47b6-9774-2aee1cdbebf7",
+      "slug": "for-two-ad01d5ab",
+      "name": "二人きりの部屋 - For Two",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "冷调极简",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 17,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_3be8b2a7-0e03-46ce-b02c-25c96c6ac637",
+      "slug": "world-3be8b2a7",
+      "name": "煙草の煙と雨とキミ",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "暖光居家",
+        "雨景氛围",
+        "都市景观"
+      ],
+      "cover_page": 0,
+      "cover_cell": 18,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_f3db0e1b-7740-4276-8b9c-286a0fa3efc6",
+      "slug": "hotel",
+      "name": "HOTEL夕暮",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "local",
+        "asmr",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "视频画面的亮度可以调。",
+        "local": "镜子可以只在自己这边开关。",
+        "sound": "房间里有循环播放的雨声。视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "酒店套房",
+        "暖光居家",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 19,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_4ccfaa02-5e38-4dad-a957-3a4dacd28f9a",
+      "slug": "hotel-4ccfaa02",
+      "name": "HOTEL 散花",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "房间的夜间模式可以用可拾取的滑杆调暗画面。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "酒店套房",
+        "浪漫粉调"
+      ],
+      "cover_page": 0,
+      "cover_cell": 20,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_e0b2f067-f25d-4062-b7f1-6c5a1c19d7f6",
+      "slug": "two-only-room",
+      "name": "two only room",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "alarm",
+        "asmr",
+        "drawing_pen",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。",
+        "sound": "房间里有循环播放的雨声。视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "暖光居家",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 21,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_1987e0aa-ef98-4bc8-8888-2fe224406d9c",
+      "slug": "world-1987e0aa",
+      "name": "海月の眠る夢のなかで",
+      "capacity": 2,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "视频画面的亮度可以调。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "海底世界",
+        "幻想梦境"
+      ],
+      "cover_page": 0,
+      "cover_cell": 22,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_dff1cc83-ede7-4696-a5fd-fb2f44ece25e",
+      "slug": "soft-wind",
+      "name": "Soft Wind",
+      "capacity": 2,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "alarm",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "现代室内",
+        "冷调极简"
+      ],
+      "cover_page": 0,
+      "cover_cell": 23,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.7122210953346856,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_5606e8c2-16a9-40ea-a939-d420eb97d523",
+      "slug": "japanese-summer-night",
+      "name": "月に涼む。- Japanese Summer Night",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "local",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "视频画面的亮度可以调。",
+        "local": "镜子可以只在自己这边开关。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "日式和风",
+        "海滨水景"
+      ],
+      "cover_page": 0,
+      "cover_cell": 24,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_b9151aa2-bf23-4d72-9551-12f8a909c655",
+      "slug": "together-nest",
+      "name": "Together Nest",
+      "capacity": 2,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "local",
+        "alarm",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。",
+        "local": "镜子可以只在自己这边开关。雨声也可以只在自己这边开关。",
+        "sound": "房间里有循环播放的雨声。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "现代室内",
+        "冷调极简",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 25,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_cf06b411-3c0d-4a82-b205-94594c2e3389",
+      "slug": "marone-yomosugara",
+      "name": "まろ寝、終夜-marone yomosugara-",
+      "capacity": 2,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "alarm",
+        "asmr",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "复古怀旧",
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 26,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_b9326dce-ee4b-42cf-9a92-27e456d55282",
+      "slug": "soft-wind-night",
+      "name": "Soft Wind （night）",
+      "capacity": 2,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "alarm",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "现代室内",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 27,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_08a0a55d-3a59-4d19-8f2a-f0c5cc05f684",
+      "slug": "world-08a0a55d",
+      "name": "ちょっと気まずい三人専用部屋",
+      "capacity": 3,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "local",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "视频画面的亮度可以调。",
+        "local": "镜子可以只在自己这边开关。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "暖光居家",
+        "现代室内",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 28,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_96203704-8a95-4cb2-a047-794b6b029807",
+      "slug": "n-o-n-e",
+      "name": "N o n e ․",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "视频画面的亮度可以调。",
+        "sound": "房间里有循环播放的雨声。视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "乡间木屋",
+        "雨景氛围",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 29,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_d40979a1-bba2-45e0-8b6f-9d0219b77bb6",
+      "slug": "sepialodge",
+      "name": "SepiaLodge",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "乡间木屋",
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 30,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_7b5d6275-e654-4838-b614-21568ddf5a08",
+      "slug": "amber-wavelet-kohaku-iro",
+      "name": "琥珀色ウェーブレット ~Amber Wavelet ＂Kohaku_iro＂~",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "alarm",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "alarm": "床头面板里能设置起床闹钟。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "复古怀旧"
+      ],
+      "cover_page": 0,
+      "cover_cell": 31,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.6148580121703854,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_212979a6-2e3d-4ce1-8783-08b2f757241e",
+      "slug": "noctix",
+      "name": "Noctix",
+      "capacity": 5,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "asmr",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "视频画面的亮度可以调。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "都市景观",
+        "雨景氛围",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 32,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_26db925e-4305-4045-8fa7-c99bb553d34b",
+      "slug": "universal-big-picture",
+      "name": "Universal˸ Big Picture",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "alarm",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "睡眠设置里有渐暗功能，可以让画面逐渐变黑。",
+        "alarm": "世界菜单和 Sleeping Bay 休息区都能打开闹钟面板，设置只在自己这边响的起床闹钟。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "星空宇宙"
+      ],
+      "cover_page": 0,
+      "cover_cell": 33,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_127d7a39-0525-47cc-be1b-37f4a47c3836",
+      "slug": "velune",
+      "name": "Velune",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "地图有标为 Night Mode (Mobile) 的滑杆，可以调暗眼前的画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "现代室内",
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 34,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_cbe3f639-0385-44ea-92f5-50319d24a226",
+      "slug": "melancholic-night",
+      "name": "Melancholic Night",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "雨景氛围",
+        "海滨水景",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 35,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_d4a2adc5-0eb0-4462-8128-dbb59478f71f",
+      "slug": "overcast",
+      "name": "overcast",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "地图有标为 Night Mode (Mobile) 的滑杆，可以调暗眼前的画面。视频亮度也可以单独调。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "冷调极简",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 36,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_5fa056bb-065c-48f6-a985-e6d2a4c158b8",
+      "slug": "ochiteiku",
+      "name": "OCHITEIKU-おちていく-",
+      "capacity": 8,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "local",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "local": "镜子可以只在自己这边开关。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "恐怖氛围",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 37,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_f4a5d439-1daa-4f2a-b27a-54e00772af52",
+      "slug": "lover-s-room",
+      "name": "Lover's Room",
+      "capacity": 4,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "浪漫粉调",
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 38,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_6da45bcd-678a-478b-85dc-95232dd1011c",
+      "slug": "planetarium",
+      "name": "planetarium",
+      "capacity": 6,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "alarm",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "视频画面的亮度可以调。",
+        "sound": "视频的音量可以单独调。",
+        "alarm": "墙上的数字钟可以设闹钟，支持设置小时、分钟和上午或下午。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "星空宇宙",
+        "幻想梦境"
+      ],
+      "cover_page": 0,
+      "cover_cell": 39,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.5174949290060852,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_c32244ce-b9c0-4371-983d-0d0867bdfde9",
+      "slug": "world-c32244ce",
+      "name": "薄暮",
+      "capacity": 4,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "alarm",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "都市景观",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 40,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_1e316d54-100c-4044-8a34-480985ce0165",
+      "slug": "rainy-room",
+      "name": "五月雨 - Rainy Room -",
+      "capacity": 6,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "lighting",
+        "sound",
+        "local",
+        "alarm",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。",
+        "lighting": "视频画面的亮度可以调。",
+        "alarm": "手部菜单里能设置起床闹钟。",
+        "local": "雨声可以只在自己这边开关。",
+        "sound": "房间里有循环播放的雨声。视频的音量可以单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "雨景氛围",
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 41,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_a45a6a54-afee-4e59-a31c-cf68b40b3bc1",
+      "slug": "cloudrest",
+      "name": "CLOUDREST",
+      "capacity": 8,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "小屋控制面板上的 Dark Mode 可以把画面调暗。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "自然风景",
+        "幻想梦境"
+      ],
+      "cover_page": 0,
+      "cover_cell": 42,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_7f4e5dc3-15ec-4e2f-8558-75cc4595edc1",
+      "slug": "akibeya",
+      "name": "空き部屋 -akibeya-",
+      "capacity": 4,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "posture",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "posture": "可以仰躺、左侧躺和右侧躺。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "现代室内",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 43,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_c6d7f723-30ff-4cfd-84fc-d930fb6dcd1b",
+      "slug": "world-c6d7f723",
+      "name": "もし降りられたなら",
+      "capacity": 8,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player",
+        "rbs_sleep_kit_2"
+      ],
+      "sleep_guide": {
+        "lighting": "夜间模式可以把画面调暗。",
+        "alarm": "床头面板和随身平板都能设置起床闹钟。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "科幻空间",
+        "都市景观"
+      ],
+      "cover_page": 0,
+      "cover_cell": 44,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_77f63ac2-2dcf-49e2-8c7e-9cd1e5011d74",
+      "slug": "serenity-cove",
+      "name": "Serenity Cove",
+      "capacity": 48,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的流水声和背景音乐。",
+        "lighting": "设置面板可以切到 Night Filter，让场景画面变暗。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "海滨水景",
+        "幻想梦境"
+      ],
+      "cover_page": 0,
+      "cover_cell": 45,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_58b24425-a355-45d0-be76-9483c4f6fbae",
+      "slug": "cozy-apartment",
+      "name": "Cozy Apartment",
+      "capacity": 48,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "设置里有 Sleep Mode 开关，打开后画面会变暗。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 46,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_4f826865-8501-4de2-b83a-f7eeb86b26a1",
+      "slug": "root-s-home-2024",
+      "name": "ROOT'S HOME （2024）",
+      "capacity": 20,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "视频的音量可以单独调。",
+        "lighting": "入口的 Settings 菜单有亮度滑杆，可以调整整个地图的画面亮度。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 47,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.420131845841785,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_25aa60c6-ca27-458c-8fdb-43b227caa9ed",
+      "slug": "cozy-cabin-legacy",
+      "name": "Cozy Cabin - Legacy",
+      "capacity": 24,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的风声。",
+        "lighting": "打开 Settings 面板后，可以通过 Sleep Mode 切到更暗的画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "乡间木屋",
+        "暖光居家",
+        "雪景冬日"
+      ],
+      "cover_page": 0,
+      "cover_cell": 48,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_4d501c26-deb3-48e3-a5ea-e8dcc2a7f4e4",
+      "slug": "comfy-hideout",
+      "name": "Comfy Hideout",
+      "capacity": 24,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "房间画面可以调暗。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "暖光居家",
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 49,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_6f6c85cf-61e0-469c-a863-08c85dc73daa",
+      "slug": "hangout-house",
+      "name": "Hangout House",
+      "capacity": 80,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "sleep_seat",
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "随身面板可以打开睡眠预设，让画面变暗。地下室的灯光亮度也可以单独调。",
+        "sound": "雨声、风声和视频的音量都可以单独调。",
+        "sleep_seat": "地下室的座位面板有 Sleep 选项，可以生成可移动的睡眠座位。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 50,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_9647acf7-e077-4428-9f4f-4c8c0c49db55",
+      "slug": "sleep-neko-uwu-avatar",
+      "name": "Sleep Neko UwU Avatar",
+      "capacity": 64,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "房间画面可以调暗。",
+        "sound": "房间里有循环播放的流水声和虫鸣。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "可爱二次元",
+        "浪漫粉调"
+      ],
+      "cover_page": 0,
+      "cover_cell": 51,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_1752e426-4b07-45b7-99c2-452c02f5dcbd",
+      "slug": "the-room-of-the-sleep",
+      "name": "The room of the Sleep",
+      "capacity": 48,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "设置菜单里的 Sleep mode 会开启睡眠画面，并显示亮度滑杆。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "冷调极简",
+        "昏暗低光",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 52,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_2902b80d-f4ba-48b8-b325-27227bff7500",
+      "slug": "oceans-away",
+      "name": "Oceans Away",
+      "capacity": 36,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "local",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "local": "画笔组的显示开关只影响自己这边。",
+        "sound": "房间里有循环播放的风声、海浪声和壁炉声。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "海滨水景",
+        "浪漫粉调"
+      ],
+      "cover_page": 0,
+      "cover_cell": 53,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_acfd9876-5c18-4012-82c0-b00c89afc99d",
+      "slug": "moody",
+      "name": "Moody",
+      "capacity": 80,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的流水声。",
+        "lighting": "客厅和楼下卧室的 SLEEP MODE 都能打开调暗面板，再用滑杆调整画面。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "自然风景"
+      ],
+      "cover_page": 0,
+      "cover_cell": 54,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_60f27ea7-a9f0-4aca-aecd-9aba18c86ed9",
+      "slug": "home-of-the-time",
+      "name": "Home of the Time 時のお家",
+      "capacity": 24,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雨声。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "日式和风",
+        "花园绿植"
+      ],
+      "cover_page": 0,
+      "cover_cell": 55,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.3227687626774848,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_404ac063-83ec-43da-85db-e060a40f7f13",
+      "slug": "skyline-penthouse",
+      "name": "Skyline Penthouse",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的流水声。",
+        "lighting": "Sleep Toggle 开关可以把画面切到较暗的睡眠模式。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "都市景观",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 56,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_4b683455-d740-4182-b96c-1c8366e6cade",
+      "slug": "guigui-s-home-and-avatars",
+      "name": "GuiGui's Home And Avatars",
+      "capacity": 36,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "alarm",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "屋内有床。",
+        "alarm": "睡眠助手的设置面板里能设置起床闹钟。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 57,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_fff5d510-fc53-4e88-9d4e-1e0e45a17aff",
+      "slug": "bedroom-theatre",
+      "name": "Bedroom Theatre",
+      "capacity": 40,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "现代室内",
+        "昏暗低光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 58,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_955ded62-6d09-4b84-999c-05fa97f9238b",
+      "slug": "just-moved-in",
+      "name": "Just Moved In",
+      "capacity": 48,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "两处设置面板都有 Night Mode 开关，可以把场景画面调暗。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 59,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_a7366005-8b42-4063-b21e-11ba04392a8a",
+      "slug": "the-fox-den",
+      "name": "The Fox Den",
+      "capacity": 32,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "霓虹灯光",
+        "浪漫粉调"
+      ],
+      "cover_page": 0,
+      "cover_cell": 60,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_14a873d0-b4bf-4d52-9d4e-de9be3e3e9b8",
+      "slug": "islands-of-dreams",
+      "name": "Islands Of Dreams",
+      "capacity": 36,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雷声、风声和雨声。",
+        "lighting": "便携面板的灯光设置可以切换五档较暗的画面，也能恢复默认亮度。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "星空宇宙",
+        "幻想梦境"
+      ],
+      "cover_page": 0,
+      "cover_cell": 61,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_70e42e7b-3f36-41f9-88bd-4610402ca805",
+      "slug": "world-70e42e7b",
+      "name": "静寂な世界の中で",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "sound",
+        "local",
+        "drawing_pen",
+        "mirror"
+      ],
+      "sleep_guide": {
+        "sound": "场景里有循环播放的风声。",
+        "local": "镜子可以只在自己这边开关，画笔笔迹也可以只在自己这边清除。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "幻想梦境",
+        "自然风景"
+      ],
+      "cover_page": 0,
+      "cover_cell": 62,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_85af4dd5-7ffc-498d-bd29-60fcbcda16dc",
+      "slug": "place-to-eat-cereal",
+      "name": "place to eat cereal",
+      "capacity": 32,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "alarm",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "第一间小屋的窗边设置有 Dark Mode，可以调暗场景画面。",
+        "alarm": "第一间小屋的桌钟可以设置起床闹钟，小时和分钟可以分别调。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "冷调极简",
+        "星空宇宙",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 63,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.22540567951318458,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_7a0c95e2-476c-4655-9b4e-7380933c4fd3",
+      "slug": "cuddle-sleep",
+      "name": "Cuddle ＆ Sleep",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "观影区有床。",
+        "lighting": "图形设置里的夜间模式可以把画面调暗。",
+        "sound": "室外的雨声可以开关。地图里还有循环播放的背景音乐。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "暖光居家",
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 64,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_79d241ea-afb0-499d-9874-455f85e87523",
+      "slug": "starlight-home",
+      "name": "Starlight Home",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "世界设置里的 Dark Mode 开关可以调暗场景画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "都市景观",
+        "现代室内",
+        "星空宇宙"
+      ],
+      "cover_page": 0,
+      "cover_cell": 65,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7",
+      "slug": "hanami-onsen",
+      "name": "Hanami Onsen",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的流水声。",
+        "lighting": "主菜单的 Night time 会切到曝光更低的夜景预设。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "日式和风",
+        "自然风景"
+      ],
+      "cover_page": 0,
+      "cover_cell": 66,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_760b95b6-7dcd-4939-9b0a-7837ab24c2f6",
+      "slug": "thad-tiny-library-ai-inside",
+      "name": "Thad Tiny Library （AI Inside）",
+      "capacity": 18,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的风声和虫鸣。",
+        "lighting": "随身平板的自定义菜单有亮度滑杆，可以把场景画面调暗或调亮。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "乡间木屋",
+        "暖光居家",
+        "复古怀旧"
+      ],
+      "cover_page": 0,
+      "cover_cell": 67,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_e2e685de-1af9-4426-b614-dbdb4b316e5a",
+      "slug": "starry-nights",
+      "name": "Starry Nights",
+      "capacity": 36,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "主菜单里的 Dark Mode 可以把场景从默认亮度切到较暗的画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "霓虹灯光",
+        "星空宇宙"
+      ],
+      "cover_page": 0,
+      "cover_cell": 68,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_e51a6e72-36c1-4bb9-b2e3-fc87cc338091",
+      "slug": "cybersoft",
+      "name": "CyberSoft",
+      "capacity": 60,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "雨声、壁炉声、海浪声和鸟鸣的音量都可以单独调。",
+        "lighting": "视觉设置里有 Dark Mode 滑杆，可以调暗眼前的画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "赛博朋克",
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 69,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_f6f4bb4f-5abf-4fa4-b07d-dae59c182331",
+      "slug": "cyberlove-okinawa",
+      "name": "CyberLove Okinawa ｜ 沖縄",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声。视频的音量可以单独调。",
+        "lighting": "后处理菜单里的 Exposure 滑杆可以调低整个场景的曝光。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "赛博朋克",
+        "复古怀旧"
+      ],
+      "cover_page": 0,
+      "cover_cell": 70,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_78b2f1fe-622d-4556-8401-aa90921b31c1",
+      "slug": "nest",
+      "name": "Nest ネスト",
+      "capacity": 64,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "lighting": "菜单里的夜间模式可以把画面调暗。",
+        "sound": "屋里有循环雨声，雨声音量可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "暖光居家",
+        "复古怀旧",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 71,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.12804259634888437,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_e0f57c52-24f3-4437-9b19-459f2834c5d5",
+      "slug": "worlds-apart",
+      "name": "Worlds Apart",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雨声和雷声。视频的音量可以单独调。",
+        "lighting": "天气面板有 NightMode 开关，也可以选 Sleep 或 Silent Sleep 预设。设置里还有单独的曝光滑杆。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "雨景氛围",
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 72,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.001232741617357002,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_95d99272-1530-4c0e-94a4-18c87671a359",
+      "slug": "grandma-s-basement",
+      "name": "Grandma's Basement",
+      "capacity": 40,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "posture",
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雷声。雷声的音量可以单独调。",
+        "posture": "打开座位组后，床位有 VR 和桌面两种仰躺入口。",
+        "lighting": "床位平板可以打开暗屏，让眼前的画面变暗。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "复古怀旧",
+        "暖光居家"
+      ],
+      "cover_page": 0,
+      "cover_cell": 73,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.11957593688362919,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_5906f874-5bba-4f50-b1aa-4f376d1771f2",
+      "slug": "booth-house",
+      "name": "BOOTH House",
+      "capacity": 40,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "local",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "local": "镜子可以只在自己这边开关。",
+        "sound": "房间里有循环播放的背景音乐。",
+        "lighting": "卧室的 NightMode/Local 开关可以切换床边灯光，只影响自己这边。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 74,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.23791913214990137,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_e6767a73-e066-4e39-a43b-c4fc97ea8d67",
+      "slug": "the-black-shore",
+      "name": "The Black Shore - 黒の岸辺",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "alarm",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "alarm": "设置面板里能设置起床闹钟。",
+        "sound": "房间里有循环播放的海浪声。视频的音量可以单独调。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "海滨水景",
+        "自然风景"
+      ],
+      "cover_page": 0,
+      "cover_cell": 75,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.3562623274161736,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_89fe75cc-7bce-4043-9b35-b395f7e754fd",
+      "slug": "m-home",
+      "name": "M~Home",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "PC 版的后处理设置有 Exposure 滑杆，可以调低场景曝光。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "星空宇宙",
+        "霓虹灯光"
+      ],
+      "cover_page": 0,
+      "cover_cell": 76,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.47460552268244577,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_16f2515e-0dda-4741-a646-ab77bec9a277",
+      "slug": "cozy-comfort",
+      "name": "Cozy Comfort",
+      "capacity": 60,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "地图设置有一支 Dark Mode 滑杆，可以调暗场景画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "雨景氛围"
+      ],
+      "cover_page": 0,
+      "cover_cell": 77,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.592948717948718,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_6ed81f53-a730-4b79-897e-57b2330ab1f9",
+      "slug": "s-house",
+      "name": "이루아's House",
+      "capacity": 60,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的风声。",
+        "lighting": "三楼卧室、入口和影音区等处的设置面板都有夜间模式按钮，可以调暗画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "海滨水景",
+        "现代室内"
+      ],
+      "cover_page": 0,
+      "cover_cell": 78,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.7112919132149902,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_8fb6757c-46c9-429c-8a0c-6b8e82c7cc52",
+      "slug": "frozen-star",
+      "name": "Frozen Star",
+      "capacity": 36,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的风雪声和壁炉声。视频的音量可以单独调。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "雪景冬日",
+        "自然风景"
+      ],
+      "cover_page": 0,
+      "cover_cell": 79,
+      "cover_revision": "edb5f2a870ccfb57",
+      "cover_width": 2028,
+      "cover_height": 1972,
+      "cover_uv": [
+        0.8296351084812623,
+        0.03067951318458418,
+        0.11587771203155818,
+        0.08924949290060852
+      ]
+    },
+    {
+      "world_id": "wrld_55ae2510-27c6-4309-9f18-b3eac4219a9b",
+      "slug": "cyberpunk-home",
+      "name": "Cyberpunk Home",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "视频的音量可以单独调。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "赛博朋克"
+      ],
+      "cover_page": 1,
+      "cover_cell": 0,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.001288659793814433,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_637ca2d9-9073-4bf4-ba24-c194ff051536",
+      "slug": "avatars-by-mai",
+      "name": "Avatars by Mai",
+      "capacity": 32,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "可爱二次元"
+      ],
+      "cover_page": 1,
+      "cover_cell": 1,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.125,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_f5f11bb8-e02a-452b-b0cb-f2d8db74a3e8",
+      "slug": "dreams-train",
+      "name": "Dreams Train",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "雨声和雷声的音量都可以单独调。",
+        "lighting": "列车的后处理菜单里有 Sleep Mode 滑杆，可以把画面调暗。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "旅行载具",
+        "霓虹灯光"
+      ],
+      "cover_page": 1,
+      "cover_cell": 2,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.24871134020618557,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_1608a761-8ffd-4327-95b9-6800921f7af4",
+      "slug": "the-cabin-life",
+      "name": "THE CABIN LIFE",
+      "capacity": 32,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的流水声。",
+        "lighting": "菜单有标为 85% DARKMODE 和 98% DARKMODE 的两档暗屏开关。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "乡间木屋",
+        "暖光居家"
+      ],
+      "cover_page": 1,
+      "cover_cell": 3,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.37242268041237114,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_a5c9f5c1-7f9c-417a-9342-8f15c8702be1",
+      "slug": "thad-home-of-cuddles",
+      "name": "Thad Home of Cuddles",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声和壁炉声。",
+        "lighting": "世界设置可以用亮度滑杆调暗画面，桑拿房还有自己的 Dark Mode 开关。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "自然风景"
+      ],
+      "cover_page": 1,
+      "cover_cell": 4,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.4961340206185567,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_7f9b9fe5-1ef9-4525-836b-e86e095b27e8",
+      "slug": "acquarium-loft",
+      "name": "Acquarium Loft",
+      "capacity": 40,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的壁炉声。",
+        "lighting": "主菜单里有 Dark Mode 滑杆，可以把画面调暗。",
+        "alarm": "地图里的黑色闹钟可以设定响铃时间，响铃后可以在钟上关闭。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "海底世界",
+        "冷调极简"
+      ],
+      "cover_page": 1,
+      "cover_cell": 5,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.6198453608247423,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_5eb5929a-c878-4372-b2f8-8198b96400a0",
+      "slug": "soft-space",
+      "name": "Soft Space",
+      "capacity": 24,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "PC 版的设置里有 Sleep Toggle 开关，可以切到更暗的画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "现代室内"
+      ],
+      "cover_page": 1,
+      "cover_cell": 6,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.7435567010309279,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_6ebfc3e2-3553-4cd3-9aca-1ee5e84f7811",
+      "slug": "cozy-boat",
+      "name": "Cozy Boat",
+      "capacity": 60,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "lighting": "船舱内和船上的亮度控制面板都有滑杆，可以调暗画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "旅行载具",
+        "海滨水景",
+        "暖光居家"
+      ],
+      "cover_page": 1,
+      "cover_cell": 7,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.8672680412371134,
+        0.9092482690405539,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_f612c90d-1a12-4355-8683-215c3a34c8ed",
+      "slug": "thad-magic-mirrors",
+      "name": "Thad Magic Mirrors - マジカル鏡",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的风声和壁炉声。",
+        "lighting": "PC 版主房菜单里的 Brightness 滑杆可以调暗画面，切换场景后各有对应的暗色设置。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "幻想梦境",
+        "自然风景"
+      ],
+      "cover_page": 1,
+      "cover_cell": 8,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.001288659793814433,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_1ef6553e-8ddf-49da-8969-2b3c75a325b1",
+      "slug": "pocket-rain",
+      "name": "Pocket Rain",
+      "capacity": 36,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雨声。雨声和风声的音量都可以单独调。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "旅行载具",
+        "雨景氛围",
+        "雪景冬日"
+      ],
+      "cover_page": 1,
+      "cover_cell": 9,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.125,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_8c422b2d-a819-45a9-b21b-61fbf2dd2e96",
+      "slug": "cozy-cottage-legacy",
+      "name": "Cozy Cottage - Legacy",
+      "capacity": 32,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "设置区有独立的 Sleep Mode 按钮，可以切到较暗的画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "乡间木屋",
+        "暖光居家",
+        "雨景氛围"
+      ],
+      "cover_page": 1,
+      "cover_cell": 10,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.24871134020618557,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_860bdea8-0499-4c16-8170-5683a3a3ab8a",
+      "slug": "dream-waves",
+      "name": "Dream Waves",
+      "capacity": 80,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的壁炉声和流水声。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "蒸汽波",
+        "霓虹灯光"
+      ],
+      "cover_page": 1,
+      "cover_cell": 11,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.37242268041237114,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_41eee024-34ec-43cf-a2f8-2bc16e2896d0",
+      "slug": "dream-ocean",
+      "name": "Dream Ocean",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "lighting",
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的海浪声。",
+        "lighting": "屋里的 DARK 开关可以切到更暗的夜间画面。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "海底世界",
+        "幻想梦境"
+      ],
+      "cover_page": 1,
+      "cover_cell": 12,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.4961340206185567,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
+      "slug": "spring-and-you",
+      "name": "消えたあなたと‚ 止まっている春が-Spring and you",
+      "capacity": 32,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "sound",
+        "alarm",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "alarm": "床边面板里能设置起床闹钟。",
+        "sound": "床边的睡眠面板可以单独开关背景音乐。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "花园绿植",
+        "复古怀旧"
+      ],
+      "cover_page": 1,
+      "cover_cell": 13,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.6198453608247423,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_0729c818-2397-4d80-84e2-dbd43844361e",
+      "slug": "serenity-sleepover",
+      "name": "Serenity Sleepover",
+      "capacity": 36,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的雨声和背景音乐。雨声和背景音乐的音量都可以单独调。",
+        "lighting": "随身设置平板的 Sleep Mode 开关可以把画面调暗。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "昏暗低光"
+      ],
+      "cover_page": 1,
+      "cover_cell": 14,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.7435567010309279,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_b92b44e1-bd57-4100-9d49-c6eaee90c7de",
+      "slug": "glimmer-glade",
+      "name": "Glimmer Glade",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的壁炉声。",
+        "lighting": "世界设置的 Dark Mode 符文开关可以把场景画面调暗。"
+      },
+      "space": "large",
+      "aesthetics": [
+        "幻想梦境",
+        "自然风景"
+      ],
+      "cover_page": 1,
+      "cover_cell": 15,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.8672680412371134,
+        0.8142927794263106,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_891d0376-3ee6-4ff3-9f5c-d44e982d3d7c",
+      "slug": "cozy-cave",
+      "name": "Cozy Cave",
+      "capacity": 50,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "local",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "local": "画笔组的显示开关只影响自己这边。",
+        "sound": "房间里有循环播放的雨声。",
+        "lighting": "地下室可以打开只影响自己的夜间模式，灯光菜单里还有亮度滑杆。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "幻想梦境",
+        "暖光居家"
+      ],
+      "cover_page": 1,
+      "cover_cell": 16,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.001288659793814433,
+        0.7193372898120672,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_23a62ea4-6645-47a2-b3de-1247472c5222",
+      "slug": "customizable-home-world",
+      "name": "Customizable Home World",
+      "capacity": 32,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "lighting",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "视频的音量可以单独调。",
+        "lighting": "Dark Mode 设置面板可以开启暗色画面。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "暖光居家",
+        "现代室内"
+      ],
+      "cover_page": 1,
+      "cover_cell": 17,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.125,
+        0.7193372898120672,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_f33d809d-12b5-43a3-98a3-27c5f5add919",
+      "slug": "meadow-cottage",
+      "name": "Meadow Cottage",
+      "capacity": 80,
+      "platforms": [
+        "pc",
+        "android"
+      ],
+      "features": [
+        "bed",
+        "sound",
+        "drawing_pen",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "bed": "这里有床。",
+        "sound": "房间里有循环播放的壁炉声。"
+      },
+      "space": "medium",
+      "aesthetics": [
+        "花园绿植",
+        "乡间木屋"
+      ],
+      "cover_page": 1,
+      "cover_cell": 18,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.24871134020618557,
+        0.7193372898120672,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    },
+    {
+      "world_id": "wrld_1efd54f9-2aee-460b-8084-f880bfd69157",
+      "slug": "clean",
+      "name": "Clean",
+      "capacity": 8,
+      "platforms": [
+        "pc"
+      ],
+      "features": [
+        "sound",
+        "mirror",
+        "video_player"
+      ],
+      "sleep_guide": {
+        "sound": "房间里有循环播放的背景音乐。"
+      },
+      "space": "small",
+      "aesthetics": [
+        "冷调极简",
+        "雪景冬日"
+      ],
+      "cover_page": 1,
+      "cover_cell": 19,
+      "cover_revision": "95e740dc41ee9376",
+      "cover_width": 1940,
+      "cover_height": 2022,
+      "cover_uv": [
+        0.37242268041237114,
+        0.7193372898120672,
+        0.1211340206185567,
+        0.08704253214638971
+      ]
+    }
+  ],
+  "revision": "535e4b3c97a4"
+}
